@@ -16,8 +16,8 @@
 
    <h1>Welcome to Ramen Trash Web!!</h1>
    
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-<p>Illum delectus explicabo soluta rerum quod iure tempori.</p>
+<p>Hi guys! my name is Arsal, you can call me Ramen Trash :3.</p>
+<p>It's my first time trying github :v . I hope you like this.</p>
 <br>
 <br>
 <p>Tap this icon to follow my Social Media!</p>
