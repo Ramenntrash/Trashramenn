@@ -5,43 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-<style>
-    body {
-        background-image: url(https://wallpaperaccess.com/full/1719750.png);
-        background-size: cover;
-        font-family: 'Silkscreen', cursive;
 
-    }
-
-    p {
-        text-align: center;
-        color: ivory;
-    }
-
-    h1 {
-        text-align: center;
-        color: cornsilk;
-
-    }
-
-
-    .profile {
-        width:100%;
-        height: 100px;
-        display:flex;
-        align-items:center;
-        justify-content: center;
-    }
-
-    a {
-        text-align: center;
-    }
-
-    
-    
-    
-
-</style>
 <body>
     <br>
   <div class="profile">
